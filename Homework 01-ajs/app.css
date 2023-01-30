@@ -1,0 +1,19 @@
+table, thead, tbody{
+    width : 50%;
+    border: 1px solid black;
+  }
+  .click-btn-next { display:none;
+  }
+  .click-btn-previous { display:none;
+  }
+  
+  .head { 
+    border: 2px solid black;
+  }
+  .planets-style { 
+    border: 2px solid black;
+  }
+  table, th,td,tr {
+    border: 1 px solid black;
+  }
+  
